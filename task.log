@@ -1,0 +1,283 @@
+2025-12-17 15:03:42,250 - process_page 진입
+2025-12-17 15:04:22,461 - process_page 진입
+2025-12-17 15:04:58,773 - process_page 진입
+2025-12-17 15:07:55,127 - process_page 진입
+2025-12-17 15:07:55,307 - process_page 진입
+2025-12-17 15:24:14,061 - process_page 진입
+2025-12-17 15:37:01,331 - process_page 진입
+2025-12-17 15:47:28,897 - process_page 진입
+2025-12-17 15:57:03,180 - process_page 진입
+2025-12-17 16:00:00,481 - process_page 진입
+2025-12-17 16:01:18,051 - process_page 진입
+2025-12-17 16:20:41,044 - process_page 진입
+2025-12-17 16:32:27,573 - process_page 진입
+2025-12-17 16:33:30,637 - process_page 진입
+2025-12-17 16:36:36,651 - process_page 진입
+2025-12-17 16:37:19,368 - process_page 진입
+2025-12-17 16:38:38,552 - process_page 진입
+2025-12-17 16:39:37,288 - process_page 진입
+2025-12-17 16:41:02,438 - process_page 진입
+2025-12-17 16:41:39,299 - process_page 진입
+2025-12-17 16:42:20,664 - process_page 진입
+2025-12-17 16:45:45,220 - process_page 진입
+2025-12-17 16:47:50,440 - process_page 진입
+2025-12-17 16:53:03,250 - process_page 진입
+2025-12-17 16:53:48,825 - process_page 진입
+2025-12-17 16:57:19,743 - process_page 진입
+2025-12-17 17:00:02,306 - process_page 진입
+2025-12-17 17:18:52,441 - process_page 진입
+2025-12-17 17:50:07,448 - process_page 진입
+2025-12-17 17:50:12,366 - ====== WebDriver manager ======
+2025-12-17 17:50:13,329 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:50:13,719 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:50:14,076 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:50:22,450 - ====== WebDriver manager ======
+2025-12-17 17:50:23,418 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:50:23,781 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:50:24,127 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:50:32,845 - ====== WebDriver manager ======
+2025-12-17 17:50:33,749 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:50:34,122 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:50:34,492 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:54:57,106 - process_page 진입
+2025-12-17 17:55:03,238 - ====== WebDriver manager ======
+2025-12-17 17:55:04,196 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:04,544 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:04,893 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:09,160 - ====== WebDriver manager ======
+2025-12-17 17:55:10,044 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:10,349 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:10,689 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:14,935 - ====== WebDriver manager ======
+2025-12-17 17:55:15,898 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:16,309 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:16,663 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:20,874 - ====== WebDriver manager ======
+2025-12-17 17:55:21,754 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:22,151 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:22,508 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:26,712 - ====== WebDriver manager ======
+2025-12-17 17:55:27,583 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:27,963 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:28,330 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:32,069 - ====== WebDriver manager ======
+2025-12-17 17:55:32,958 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:33,308 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:33,668 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:37,877 - ====== WebDriver manager ======
+2025-12-17 17:55:38,759 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:39,147 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:39,530 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:43,793 - ====== WebDriver manager ======
+2025-12-17 17:55:44,695 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:45,049 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:45,415 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:49,665 - ====== WebDriver manager ======
+2025-12-17 17:55:50,572 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:50,950 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:51,321 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:55:55,499 - ====== WebDriver manager ======
+2025-12-17 17:55:56,385 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:56,741 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:55:57,114 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:01,309 - ====== WebDriver manager ======
+2025-12-17 17:56:02,266 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:02,641 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:02,997 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:06,774 - ====== WebDriver manager ======
+2025-12-17 17:56:07,696 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:08,090 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:08,491 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:12,766 - ====== WebDriver manager ======
+2025-12-17 17:56:13,785 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:14,145 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:14,498 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:18,784 - ====== WebDriver manager ======
+2025-12-17 17:56:19,829 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:20,186 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:20,562 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:24,804 - ====== WebDriver manager ======
+2025-12-17 17:56:25,857 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:26,246 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:26,638 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:30,415 - ====== WebDriver manager ======
+2025-12-17 17:56:31,495 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:31,849 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:32,235 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:36,537 - ====== WebDriver manager ======
+2025-12-17 17:56:37,566 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:37,919 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:38,308 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:42,067 - ====== WebDriver manager ======
+2025-12-17 17:56:43,115 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:43,512 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:43,886 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:48,065 - ====== WebDriver manager ======
+2025-12-17 17:56:49,124 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:49,480 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:49,837 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:53,597 - ====== WebDriver manager ======
+2025-12-17 17:56:54,583 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:54,967 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:56:55,323 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:56:59,593 - ====== WebDriver manager ======
+2025-12-17 17:57:00,547 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:00,956 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:01,308 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:05,577 - ====== WebDriver manager ======
+2025-12-17 17:57:06,505 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:06,894 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:07,249 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:11,545 - ====== WebDriver manager ======
+2025-12-17 17:57:12,446 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:12,827 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:13,205 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:17,471 - ====== WebDriver manager ======
+2025-12-17 17:57:18,346 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:18,693 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:19,113 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:23,341 - ====== WebDriver manager ======
+2025-12-17 17:57:24,225 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:24,620 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:25,020 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:29,250 - ====== WebDriver manager ======
+2025-12-17 17:57:30,140 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:30,505 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:30,879 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:35,122 - ====== WebDriver manager ======
+2025-12-17 17:57:36,038 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:36,422 - Get LATEST chromedriver version for google-chrome
+2025-12-17 17:57:36,771 - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 17:57:42,707 - process_page 진입
+2025-12-17 19:11:36,932 - process_page 吏꾩엯
+2025-12-17 19:12:56,546 - process_page 吏꾩엯
+2025-12-17 19:19:59,986 - process_page 吏꾩엯
+2025-12-17 20:02:09,957 - ====== WebDriver manager ======
+2025-12-17 20:02:10,296 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:10,328 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:10,360 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:02:28,244 - ====== WebDriver manager ======
+2025-12-17 20:02:28,343 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:28,373 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:28,402 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:02:32,518 - ====== WebDriver manager ======
+2025-12-17 20:02:32,735 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:32,766 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:32,796 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:02:37,667 - ====== WebDriver manager ======
+2025-12-17 20:02:37,875 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:37,908 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:37,941 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:02:55,979 - ====== WebDriver manager ======
+2025-12-17 20:02:56,190 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:56,225 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:02:56,264 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:03:00,465 - ====== WebDriver manager ======
+2025-12-17 20:03:00,568 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:00,603 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:00,631 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:03:19,341 - ====== WebDriver manager ======
+2025-12-17 20:03:19,583 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:19,615 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:19,644 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:03:27,640 - ====== WebDriver manager ======
+2025-12-17 20:03:27,758 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:27,791 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:27,822 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:03:32,249 - ====== WebDriver manager ======
+2025-12-17 20:03:32,488 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:32,522 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:32,556 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:03:49,787 - ====== WebDriver manager ======
+2025-12-17 20:03:49,899 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:49,932 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:03:49,961 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:04:07,894 - ====== WebDriver manager ======
+2025-12-17 20:04:08,111 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:04:08,141 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:04:08,170 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:04:25,956 - ====== WebDriver manager ======
+2025-12-17 20:04:26,263 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:04:26,628 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:04:26,678 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:04:45,864 - ====== WebDriver manager ======
+2025-12-17 20:04:46,092 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:04:46,122 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:04:46,154 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:05:03,999 - ====== WebDriver manager ======
+2025-12-17 20:05:04,232 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:04,262 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:04,292 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:05:21,976 - ====== WebDriver manager ======
+2025-12-17 20:05:22,077 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:22,109 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:22,139 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:05:27,244 - ====== WebDriver manager ======
+2025-12-17 20:05:27,462 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:27,493 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:27,523 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:05:45,574 - ====== WebDriver manager ======
+2025-12-17 20:05:45,677 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:45,712 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:45,740 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:05:50,081 - ====== WebDriver manager ======
+2025-12-17 20:05:50,346 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:50,380 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:05:50,415 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:05:53,946 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/ee5470adb464792ccb3b6247653fa501
+2025-12-17 20:05:53,947 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51009): Failed to establish a new connection: [Errno 61] Connection refused")': /session/ee5470adb464792ccb3b6247653fa501
+2025-12-17 20:05:53,948 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51009): Failed to establish a new connection: [Errno 61] Connection refused")': /session/ee5470adb464792ccb3b6247653fa501
+2025-12-17 20:17:16,784 - ====== WebDriver manager ======
+2025-12-17 20:17:17,008 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:17:17,038 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:17:17,068 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:19:58,473 - ====== WebDriver manager ======
+2025-12-17 20:19:58,827 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:19:58,860 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:19:58,892 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:20:00,385 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/url
+2025-12-17 20:20:00,385 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/url
+2025-12-17 20:20:00,386 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/url
+2025-12-17 20:20:00,386 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/frame
+2025-12-17 20:20:00,387 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/frame
+2025-12-17 20:20:00,387 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/frame
+2025-12-17 20:20:03,189 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/url
+2025-12-17 20:20:03,190 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/url
+2025-12-17 20:20:03,190 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/url
+2025-12-17 20:20:03,192 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/frame
+2025-12-17 20:20:03,193 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/frame
+2025-12-17 20:20:03,193 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51376): Failed to establish a new connection: [Errno 61] Connection refused")': /session/c3db2687fd68031e45553b3f83e4609c/frame
+2025-12-17 20:21:40,973 - ====== WebDriver manager ======
+2025-12-17 20:21:41,313 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:21:41,343 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:21:41,372 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:23:40,084 - ====== WebDriver manager ======
+2025-12-17 20:23:40,418 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:23:40,449 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:23:40,479 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:33:37,697 - ====== WebDriver manager ======
+2025-12-17 20:33:38,403 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:33:38,435 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:33:38,464 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:35:22,539 - ====== WebDriver manager ======
+2025-12-17 20:35:22,875 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:35:22,904 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:35:22,935 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 20:36:55,894 - ====== WebDriver manager ======
+2025-12-17 20:36:56,237 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:36:57,284 - Get LATEST chromedriver version for google-chrome
+2025-12-17 20:36:57,324 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-17 21:52:13,843 - ====== WebDriver manager ======
+2025-12-17 21:52:14,197 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:52:14,235 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:52:14,264 - Driver [/Users/jaejun/.wdm/drivers/chromedriver/mac64/143.0.7499.146/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-18 08:46:41,900 - ====== WebDriver manager ======
+2025-12-18 08:46:42,882 - Get LATEST chromedriver version for google-chrome
+2025-12-18 08:46:43,260 - Get LATEST chromedriver version for google-chrome
+2025-12-18 08:46:43,604 - Get LATEST chromedriver version for google-chrome
+2025-12-18 08:46:44,473 - WebDriver version 142.0.7444.175 selected
+2025-12-18 08:46:44,476 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-12-18 08:46:44,476 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-12-18 08:46:44,851 - Driver downloading response is 200
+2025-12-18 08:46:44,934 - Get LATEST chromedriver version for google-chrome
+2025-12-18 08:46:45,376 - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\142.0.7444.175]
